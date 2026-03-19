@@ -2,10 +2,6 @@
 backend/.env
 .env
 
-# Python
-__pycache__/
-*.pyc
-
 # Node
 frontend/node_modules/
 
